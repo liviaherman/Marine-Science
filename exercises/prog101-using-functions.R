@@ -8,6 +8,9 @@ ceiling(1.1)
 # The function for cosine and sine are cos() and sin()
 cos(0)
 sin(0)
+cos(pi)
+sin(pi)
+
 #The cos(0) is 1 while the sin(0) is 0
 
 # What do you think the following functions do? Just go off the name, don't look
